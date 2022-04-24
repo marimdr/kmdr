@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: marimdr/kubeproject:latest
+          image: marimdr/k8:latest
           imagePullPolicy: Always
